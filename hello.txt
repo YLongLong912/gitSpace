@@ -1,4 +1,3 @@
-w
 woshi hello word
 
 master test
